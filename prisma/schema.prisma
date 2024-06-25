@@ -15,5 +15,5 @@ model Post{
   username String
   content String
   image String
-  createdAt DateTime @default(now())  
+  createdAt DateTime @default(now())
 }
